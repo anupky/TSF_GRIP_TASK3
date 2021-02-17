@@ -8,15 +8,15 @@ The result that can be obtained is the following :
 # Installation
 
 
-### Other requirements
-All the other requirements can be installed via the command : 
+### Requirements
+All the requirements can be installed via the command : 
 ```bash
 pip install -r requirements.txt
 ```
 
 # Download Tensorflow models
 
-In my project I used the faster_rcnn_inception_v2_coco model. I could not upload it to github because it is to heavy.
+In my project I used the faster_rcnn_inception_v2_coco model. I could not upload it to github because it is too heavy.
 
 # Run project
 
