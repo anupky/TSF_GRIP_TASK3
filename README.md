@@ -5,6 +5,8 @@ The result that can be obtained is the following :
 
 ![](/img/result.gif)
 
+You can use this [sample video](https://drive.google.com/file/d/1kje-_8_x_7rDSYjHxCZE6p_wAjm6g3wU/view?usp=sharing)
+
 # Installation
 
 
